@@ -2,3 +2,4 @@ Just creating a test file
 Adding second line from dev1 branch
 Adding third line from master branch
 Added fourth line from master branch
+Adding a random line at the end of file from dev branch
