@@ -1,1 +1,2 @@
 adding first line to bug fix file
+adding second line to bugfix file
